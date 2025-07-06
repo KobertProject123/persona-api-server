@@ -1,0 +1,256 @@
+{
+    "info": {
+        "category": "페르소나 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BP22011653",
+        "name": "2022 한국어 블렌더봇 데이터 BP22011653",
+        "personas": [
+            {
+                "evaluation": {
+                    "avg_rating": 4.2,
+                    "grade": "우수",
+                    "votes": [
+                        {
+                            "rating": 4.0,
+                            "voter_id": "e002"
+                        },
+                        {
+                            "rating": 5.0,
+                            "voter_id": "e004"
+                        },
+                        {
+                            "rating": 4.0,
+                            "voter_id": "e006"
+                        },
+                        {
+                            "rating": 4.0,
+                            "voter_id": "e008"
+                        },
+                        {
+                            "rating": 4.0,
+                            "voter_id": "e010"
+                        }
+                    ]
+                },
+                "persona": [
+                    {
+                        "profile": "나는 30대다.",
+                        "profile_id": 1236,
+                        "profile_major": "연령대",
+                        "profile_minor": "30대"
+                    },
+                    {
+                        "profile": "나는 화력 발전 장치 조작원이다.",
+                        "profile_id": 1237,
+                        "profile_major": "직업군",
+                        "profile_minor": "장치/기계 조작 및 조립 종사자"
+                    },
+                    {
+                        "profile": "나는 불고기를 좋아한다.",
+                        "profile_id": 1238,
+                        "profile_major": "취향",
+                        "profile_minor": null
+                    },
+                    {
+                        "profile": "나는 팀워크가 중요하다고 생각한다.",
+                        "profile_id": 1239,
+                        "profile_major": "성격/가치관",
+                        "profile_minor": null
+                    },
+                    {
+                        "profile": "나는 경기도에 살고 있다.",
+                        "profile_id": 1240,
+                        "profile_major": "환경",
+                        "profile_minor": null
+                    }
+                ],
+                "persona_id": 248
+            },
+            {
+                "evaluation": {
+                    "avg_rating": 4.4,
+                    "grade": "우수",
+                    "votes": [
+                        {
+                            "rating": 5.0,
+                            "voter_id": "e004"
+                        },
+                        {
+                            "rating": 4.0,
+                            "voter_id": "e006"
+                        },
+                        {
+                            "rating": 5.0,
+                            "voter_id": "e007"
+                        },
+                        {
+                            "rating": 4.0,
+                            "voter_id": "e010"
+                        },
+                        {
+                            "rating": 4.0,
+                            "voter_id": "e013"
+                        }
+                    ]
+                },
+                "persona": [
+                    {
+                        "profile": "나는 남자다.",
+                        "profile_id": 2101,
+                        "profile_major": "성별",
+                        "profile_minor": "남"
+                    },
+                    {
+                        "profile": "나는 40대 중반이다.",
+                        "profile_id": 2102,
+                        "profile_major": "연령대",
+                        "profile_minor": "40대"
+                    },
+                    {
+                        "profile": "나는 역무원이다.",
+                        "profile_id": 2103,
+                        "profile_major": "직업군",
+                        "profile_minor": "서비스 종사자"
+                    },
+                    {
+                        "profile": "나는 풍선을 싫어한다.",
+                        "profile_id": 2104,
+                        "profile_major": "취향",
+                        "profile_minor": null
+                    },
+                    {
+                        "profile": "나는 이번 주말에 당일치기 여행을 갈 계획이다.",
+                        "profile_id": 2105,
+                        "profile_major": "현황",
+                        "profile_minor": null
+                    }
+                ],
+                "persona_id": 421
+            }
+        ],
+        "topic": "시사/사회/인문",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "bp_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "bp_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "bp_insvoter4"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "bp_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "bp_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "persona_id": 248,
+            "terminate": false,
+            "text": "벌써 가을이네요. 이제 더위도 한풀 꺾여서 전기 수요량 걱정은 안 해도 되겠어요.",
+            "utterance_id": "BP22011653.1"
+        },
+        {
+            "persona_id": 421,
+            "terminate": false,
+            "text": "하하, 전기 수요량 걱정하시는 분은 처음 봤어요. 혹시 관련 기관에서 일하시나요?",
+            "utterance_id": "BP22011653.2"
+        },
+        {
+            "persona_id": 248,
+            "terminate": false,
+            "text": "네, 제가 화력 발전소에서 일하거든요. 장치 조작을 맡고 있는데 이번 여름에 폭염이 길어지거나 해서 에어컨 사용량이 늘어날까봐 노심초사했었어요. 요즘 에너지 수급 때문에 난리잖아요.",
+            "utterance_id": "BP22011653.3"
+        },
+        {
+            "persona_id": 421,
+            "terminate": false,
+            "text": "맞아요, 전쟁 때문에 에너지 가격이 많이 올랐다고 하더라고요. 저는 지하철역에서 근무하는데 적어도 제 눈에는 전보다 승객이 늘어난 것 같아요. 기름값이 올라서 차를 안 끌고 다니나봐요.",
+            "utterance_id": "BP22011653.4"
+        },
+        {
+            "persona_id": 248,
+            "terminate": false,
+            "text": "그럴 수도 있어요. 그나마 우리나라는 에너지 대란까지는 아닌데 유럽 쪽은 밤에 관광지 조명이랑 간판 불까지 다 끄더라고요.",
+            "utterance_id": "BP22011653.5"
+        },
+        {
+            "persona_id": 421,
+            "terminate": false,
+            "text": "와, 정말 대단하네요. 어서 전쟁이 끝나야 이 사태도 좀 진정될 텐데요. 저는 전쟁이 난 이후로 제가 누리는 사소한 일상에 감사하면서도 죄책감이 들어요.",
+            "utterance_id": "BP22011653.6"
+        },
+        {
+            "persona_id": 248,
+            "terminate": false,
+            "text": "죄책감이요? 어떤 면에 죄책감이 드시나요?",
+            "utterance_id": "BP22011653.7"
+        },
+        {
+            "persona_id": 421,
+            "terminate": false,
+            "text": "간단히 예를 들자면, 저는 이번 주 토요일에 부산으로 당일치기 여행을 가는데 저 멀리에서 누군가는 피난을 가고 있다는 사실에 괜히 미안해지더라고요.",
+            "utterance_id": "BP22011653.8"
+        },
+        {
+            "persona_id": 248,
+            "terminate": false,
+            "text": "아, 저도 비슷한 경험이 있었어요. 불고기를 먹다가 전쟁 소식을 들었는데 갑자기 제가 잘못하는 것 같고 불고기가 맛없게 느껴지더라고요. 제가 제일 좋아하는 음식인데도 말이에요.",
+            "utterance_id": "BP22011653.9"
+        },
+        {
+            "persona_id": 421,
+            "terminate": false,
+            "text": "역시 저만 그런 게 아니었군요. 저도 나름 인생 여러 사건을 경험했다고 생각했었는데 마흔넷 평생 이렇게 살벌한 전쟁을 목도하게 될 줄은 꿈에도 몰랐어요.",
+            "utterance_id": "BP22011653.10"
+        },
+        {
+            "persona_id": 248,
+            "terminate": false,
+            "text": "맞아요, 특히 저는 파주에 살아서 더 와닿더라고요. 아마 경기도 북부랑 강원 북부에 사는 사람들은 다 비슷한 생각들 했을 거예요.",
+            "utterance_id": "BP22011653.11"
+        },
+        {
+            "persona_id": 421,
+            "terminate": false,
+            "text": "어휴, 마음고생 많으셨겠어요. 전쟁이 얼른 끝났으면 좋겠어요. 제가 아내랑 새벽기도를 다니는데 전쟁이 터진 이후로는 전쟁이 끝나게 해달라는 기도도 꼭 같이 하고 있어요.",
+            "utterance_id": "BP22011653.12"
+        },
+        {
+            "persona_id": 248,
+            "terminate": false,
+            "text": "마음이 따뜻하시네요. 제가 37년 동안 단 한 번도 종교활동을 한 적이 없는데 저도 기도 한 번 드려봐야겠어요.",
+            "utterance_id": "BP22011653.13"
+        },
+        {
+            "persona_id": 421,
+            "terminate": false,
+            "text": "좋은 생각이세요. 꼭 특정 종교 단체에 가지 않아도 마음을 다해 기도하면 들어주실 거예요.",
+            "utterance_id": "BP22011653.14"
+        },
+        {
+            "persona_id": 248,
+            "terminate": false,
+            "text": "좋은 말씀 감사합니다. 우리 각자의 자리에서 할 수 있는 걸 해봐요.",
+            "utterance_id": "BP22011653.15"
+        },
+        {
+            "persona_id": 421,
+            "terminate": true,
+            "text": "그래요. 오늘 대화 즐거웠습니다.",
+            "utterance_id": "BP22011653.16"
+        }
+    ]
+}

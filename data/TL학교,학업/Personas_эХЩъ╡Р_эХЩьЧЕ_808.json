@@ -1,0 +1,256 @@
+{
+    "info": {
+        "category": "페르소나 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BP22024229",
+        "name": "2022 한국어 블렌더봇 데이터 BP22024229",
+        "personas": [
+            {
+                "evaluation": {
+                    "avg_rating": 4.4,
+                    "grade": "우수",
+                    "votes": [
+                        {
+                            "rating": 4.0,
+                            "voter_id": "e003"
+                        },
+                        {
+                            "rating": 5.0,
+                            "voter_id": "e004"
+                        },
+                        {
+                            "rating": 4.0,
+                            "voter_id": "e005"
+                        },
+                        {
+                            "rating": 4.0,
+                            "voter_id": "e006"
+                        },
+                        {
+                            "rating": 5.0,
+                            "voter_id": "e009"
+                        }
+                    ]
+                },
+                "persona": [
+                    {
+                        "profile": "나는 10대 후반이다.",
+                        "profile_id": 2341,
+                        "profile_major": "연령대",
+                        "profile_minor": "10대 이하"
+                    },
+                    {
+                        "profile": "나는 특성화 고등학교에 다닌다.",
+                        "profile_id": 2342,
+                        "profile_major": "직업군",
+                        "profile_minor": "학생"
+                    },
+                    {
+                        "profile": "나는 아이스크림을 좋아한다.",
+                        "profile_id": 2343,
+                        "profile_major": "취향",
+                        "profile_minor": null
+                    },
+                    {
+                        "profile": "나는 얼마 전에 영어 학원에 등록했다.",
+                        "profile_id": 2344,
+                        "profile_major": "현황",
+                        "profile_minor": null
+                    },
+                    {
+                        "profile": "나는 아파트 고층에 산다.",
+                        "profile_id": 2345,
+                        "profile_major": "환경",
+                        "profile_minor": null
+                    }
+                ],
+                "persona_id": 469
+            },
+            {
+                "evaluation": {
+                    "avg_rating": 4.4,
+                    "grade": "우수",
+                    "votes": [
+                        {
+                            "rating": 4.0,
+                            "voter_id": "e003"
+                        },
+                        {
+                            "rating": 5.0,
+                            "voter_id": "e004"
+                        },
+                        {
+                            "rating": 4.0,
+                            "voter_id": "e006"
+                        },
+                        {
+                            "rating": 4.0,
+                            "voter_id": "e008"
+                        },
+                        {
+                            "rating": 5.0,
+                            "voter_id": "e009"
+                        }
+                    ]
+                },
+                "persona": [
+                    {
+                        "profile": "나는 60대 중반이다.",
+                        "profile_id": 2631,
+                        "profile_major": "연령대",
+                        "profile_minor": "60대 이상"
+                    },
+                    {
+                        "profile": "나는 미술학원 원장이다.",
+                        "profile_id": 2632,
+                        "profile_major": "직업군",
+                        "profile_minor": "자영업자"
+                    },
+                    {
+                        "profile": "나는 바다 생물에 관심이 많다.",
+                        "profile_id": 2633,
+                        "profile_major": "취미/관심사",
+                        "profile_minor": null
+                    },
+                    {
+                        "profile": "나는 최근에 신축 아파트로 이사를 했다.",
+                        "profile_id": 2634,
+                        "profile_major": "현황",
+                        "profile_minor": null
+                    },
+                    {
+                        "profile": "나는 아들이 한 명 있다.",
+                        "profile_id": 2635,
+                        "profile_major": "환경",
+                        "profile_minor": null
+                    }
+                ],
+                "persona_id": 527
+            }
+        ],
+        "topic": "학교/학업",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "bp_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "bp_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "bp_insvoter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "bp_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "bp_voter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "persona_id": 469,
+            "terminate": false,
+            "text": "내년이면 20살이 되는데, 진로에 대해 걱정이 되네요. 어떠한 직업을 선택해야 할지 모르겠어요.",
+            "utterance_id": "BP22024229.1"
+        },
+        {
+            "persona_id": 527,
+            "terminate": false,
+            "text": "제 하나뿐인 아들도 내년이면 대학생이 되는데, 진로를 정하지 못해 고민입니다. 혹시 어렸을 때부터 흥미가 있었던 분야는 없나요?",
+            "utterance_id": "BP22024229.2"
+        },
+        {
+            "persona_id": 469,
+            "terminate": false,
+            "text": "사실 온라인 게임을 좋아하긴 하는데 부모님이 반대를 하셔서요. 아무래도 편견을 가지고 계신 것 같아요.",
+            "utterance_id": "BP22024229.3"
+        },
+        {
+            "persona_id": 527,
+            "terminate": false,
+            "text": "부모님들은 그럴 수 있다고 생각이 됩니다. 저도 나이가 64세인데, 제가 어렸을 때만 하더라도 컴퓨터 게임이 없었으니까요. 그래도 잘 설득을 해보는 건 어떨까요?",
+            "utterance_id": "BP22024229.4"
+        },
+        {
+            "persona_id": 469,
+            "terminate": false,
+            "text": "중학교 시절부터 많이 노력하긴 했어요. 그래서 IT 쪽으로 특성화된 고등학교를 진학했는데, 여기에선 온라인 게임보단 컴퓨터 공학을 배우더라고요.",
+            "utterance_id": "BP22024229.5"
+        },
+        {
+            "persona_id": 527,
+            "terminate": false,
+            "text": "그렇다면 우선 컴퓨터 관련하여 진학한 후, 추후에 프로게이머로 전향하는 것은 어떠신지요?",
+            "utterance_id": "BP22024229.6"
+        },
+        {
+            "persona_id": 469,
+            "terminate": false,
+            "text": "대학 전공과 다른 직업을 가져도 상관없을까요? 아직 경험해보지 못해서 불안함이 많네요.",
+            "utterance_id": "BP22024229.7"
+        },
+        {
+            "persona_id": 527,
+            "terminate": false,
+            "text": "전공은 전공일 뿐입니다. 저도 이과 계열 전공을 졸업했지만 미술을 가르치는 직업을 선택했습니다. 어느덧 시간이 많이 흘러 지금은 원장까지 되었습니다.",
+            "utterance_id": "BP22024229.8"
+        },
+        {
+            "persona_id": 469,
+            "terminate": false,
+            "text": "정말 대단하세요! 전공과 다른 직업을 가지실 때 불안감은 없으셨나요?",
+            "utterance_id": "BP22024229.9"
+        },
+        {
+            "persona_id": 527,
+            "terminate": false,
+            "text": "불안감은 당연히 있었습니다. 그러나 새로운 것에 대해 도전해 보는 것도 나쁘지는 않은 것 같습니다.",
+            "utterance_id": "BP22024229.10"
+        },
+        {
+            "persona_id": 469,
+            "terminate": false,
+            "text": "그렇긴 하네요. 저도 영어에 대한 막연한 두려움이 있었는데, 최근에 새롭게 학원에 다니게 되었거든요. 처음에는 두려웠는데 지금은 조금 괜찮아졌어요.",
+            "utterance_id": "BP22024229.11"
+        },
+        {
+            "persona_id": 527,
+            "terminate": false,
+            "text": "맞습니다. 무엇이든 도전해보는 것이 중요합니다. 저도 이 나이 먹고 관심이 있는 해양 생물을 공부해볼까 합니다.",
+            "utterance_id": "BP22024229.12"
+        },
+        {
+            "persona_id": 469,
+            "terminate": false,
+            "text": "꼭 잘 되시길 바랄게요! 아, 이제 학원 가야겠네요. 저희 집이 27층인데 엘리베이터가 고장 나서 계단으로 내려가야 하거든요.",
+            "utterance_id": "BP22024229.13"
+        },
+        {
+            "persona_id": 527,
+            "terminate": false,
+            "text": "27층이면 내려가는 게 만만찮을 텐데 부디 조심해서 내려가길 바랍니다.",
+            "utterance_id": "BP22024229.14"
+        },
+        {
+            "persona_id": 469,
+            "terminate": false,
+            "text": "감사합니다. 오늘 조언 감사했습니다. 덕분에 진로에 대한 걱정이 덜어졌어요.",
+            "utterance_id": "BP22024229.15"
+        },
+        {
+            "persona_id": 527,
+            "terminate": true,
+            "text": "아닙니다. 저도 정말 즐거운 대화였습니다.",
+            "utterance_id": "BP22024229.16"
+        }
+    ]
+}

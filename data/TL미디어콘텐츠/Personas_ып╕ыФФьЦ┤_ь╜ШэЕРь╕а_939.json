@@ -1,0 +1,256 @@
+{
+    "info": {
+        "category": "페르소나 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BP22029382",
+        "name": "2022 한국어 블렌더봇 데이터 BP22029382",
+        "personas": [
+            {
+                "evaluation": {
+                    "avg_rating": 4.4,
+                    "grade": "우수",
+                    "votes": [
+                        {
+                            "rating": 5.0,
+                            "voter_id": "e003"
+                        },
+                        {
+                            "rating": 4.0,
+                            "voter_id": "e005"
+                        },
+                        {
+                            "rating": 4.0,
+                            "voter_id": "e007"
+                        },
+                        {
+                            "rating": 5.0,
+                            "voter_id": "e008"
+                        },
+                        {
+                            "rating": 4.0,
+                            "voter_id": "e011"
+                        }
+                    ]
+                },
+                "persona": [
+                    {
+                        "profile": "나는 30대 초반이다.",
+                        "profile_id": 2361,
+                        "profile_major": "연령대",
+                        "profile_minor": "30대"
+                    },
+                    {
+                        "profile": "나는 그래픽 디자이너다.",
+                        "profile_id": 2362,
+                        "profile_major": "직업군",
+                        "profile_minor": "전문가 및 관련 종사자"
+                    },
+                    {
+                        "profile": "나는 거짓말을 하지 않으려고 노력하는 편이다.",
+                        "profile_id": 2363,
+                        "profile_major": "성격/가치관",
+                        "profile_minor": null
+                    },
+                    {
+                        "profile": "나는 오늘 야근을 할 예정이다.",
+                        "profile_id": 2364,
+                        "profile_major": "현황",
+                        "profile_minor": null
+                    },
+                    {
+                        "profile": "나는 일산에 살고 있다.",
+                        "profile_id": 2365,
+                        "profile_major": "환경",
+                        "profile_minor": null
+                    }
+                ],
+                "persona_id": 473
+            },
+            {
+                "evaluation": {
+                    "avg_rating": 4.6,
+                    "grade": "우수",
+                    "votes": [
+                        {
+                            "rating": 4.0,
+                            "voter_id": "e001"
+                        },
+                        {
+                            "rating": 4.0,
+                            "voter_id": "e002"
+                        },
+                        {
+                            "rating": 5.0,
+                            "voter_id": "e004"
+                        },
+                        {
+                            "rating": 5.0,
+                            "voter_id": "e007"
+                        },
+                        {
+                            "rating": 5.0,
+                            "voter_id": "e008"
+                        }
+                    ]
+                },
+                "persona": [
+                    {
+                        "profile": "나는 남자다.",
+                        "profile_id": 2946,
+                        "profile_major": "성별",
+                        "profile_minor": "남"
+                    },
+                    {
+                        "profile": "나는 30대 초반이다.",
+                        "profile_id": 2947,
+                        "profile_major": "연령대",
+                        "profile_minor": "30대"
+                    },
+                    {
+                        "profile": "나는 장난감 소독업체 사장이다.",
+                        "profile_id": 2948,
+                        "profile_major": "직업군",
+                        "profile_minor": "자영업자"
+                    },
+                    {
+                        "profile": "나는 급할수록 침착함을 유지하는 편이다.",
+                        "profile_id": 2949,
+                        "profile_major": "성격/가치관",
+                        "profile_minor": null
+                    },
+                    {
+                        "profile": "나는 안경을 바꿀 예정이다.",
+                        "profile_id": 2950,
+                        "profile_major": "현황",
+                        "profile_minor": null
+                    }
+                ],
+                "persona_id": 590
+            }
+        ],
+        "topic": "미디어/콘텐츠",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "bp_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "bp_voter7"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "bp_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "bp_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "bp_voter11"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "persona_id": 473,
+            "terminate": false,
+            "text": "출근해서 정신없이 일하다 보면 오전 시간은 순식간에 지나가는 거 같아요. 오늘은 날도 좋은데, 오후 일정은 어떻게 되세요?",
+            "utterance_id": "BP22029382.1"
+        },
+        {
+            "persona_id": 590,
+            "terminate": false,
+            "text": "점심 먹고 스튜디오에 가서 유튜브 촬영 영상을 찍어볼까 해요. 요즘 조회수가 늘어서 영상 찍을 맛이 나더라고요.",
+            "utterance_id": "BP22029382.2"
+        },
+        {
+            "persona_id": 473,
+            "terminate": false,
+            "text": "유튜버시군요. 주로 어떤 영상을 촬영하세요?",
+            "utterance_id": "BP22029382.3"
+        },
+        {
+            "persona_id": 590,
+            "terminate": false,
+            "text": "저는 어린아이를 둔 엄마들을 대상으로 장난감별 소독 방법을 설명해주는 영상을 찍고 있어요. 제가 장난감 소독업체를 운영하고 있어서 이쪽 분야로는 전문가거든요.",
+            "utterance_id": "BP22029382.4"
+        },
+        {
+            "persona_id": 473,
+            "terminate": false,
+            "text": "아이 엄마들한테 인기가 많겠어요. 간접적이지만 유튜브를 통해 다양한 경험을 하고 배울 수 있는 게 정말 좋은 거 같아요. 유튜브 촬영은 혼자 하시나요?",
+            "utterance_id": "BP22029382.5"
+        },
+        {
+            "persona_id": 590,
+            "terminate": false,
+            "text": "주로 와이프랑 같이하죠. 와이프는 직접 아이들을 키워봐서 그런지 엄마들에게 필요한 정보가 어떤 건지 확실히 알거든요. 유튜브 자주 보세요?",
+            "utterance_id": "BP22029382.6"
+        },
+        {
+            "persona_id": 473,
+            "terminate": false,
+            "text": "그럼요. 유튜브에는 그래픽 예시들이 많아서 업무에 활용하기 좋거든요. 제가 매일 새로운 그래픽을 제작해야 하다 보니 그런 예시를 자주 봐야 해요.",
+            "utterance_id": "BP22029382.7"
+        },
+        {
+            "persona_id": 590,
+            "terminate": false,
+            "text": "그러시군요. 요즘은 유튜브가 여기저기 잘 활용되는 거 같아요. 그럼 유튜브 방송해 보실 생각은 없어요?",
+            "utterance_id": "BP22029382.8"
+        },
+        {
+            "persona_id": 473,
+            "terminate": false,
+            "text": "저도 서둘러 그래픽 관련 영상을 제작해보고 싶어요. 이미 준비도 다 해놨는데, 매일 야근만 하다 보니 시간이 안 나서 답답해요. 심지어 오늘도 야근이거든요.",
+            "utterance_id": "BP22029382.9"
+        },
+        {
+            "persona_id": 590,
+            "terminate": false,
+            "text": "급하게 진행해서 좋을 건 하나도 없어요. 오히려 급한 일일수록 차분히 생각하고 진행해야 일이 잘 풀리거든요. 유튜브는 혼자 촬영하시게요?",
+            "utterance_id": "BP22029382.10"
+        },
+        {
+            "persona_id": 473,
+            "terminate": false,
+            "text": "함께 일하는 선배랑 같이해 보려고요. 선배랑은 20대 초반부터 시작해서 벌써 10년째 같이 근무하고 있거든요. 우리는 서로 잘 맞아서 분명 영상도 잘 나올 거예요.",
+            "utterance_id": "BP22029382.11"
+        },
+        {
+            "persona_id": 590,
+            "terminate": false,
+            "text": "여러 명이 촬영할 때는 마음이 맞는 게 제일 중요하더라고요. 저도 와이프랑 20대 중반에 시작해서 7년째 같이하고 있는데, 한 번도 싸운 적이 없거든요. 촬영할 스튜디오는 알아놨어요?",
+            "utterance_id": "BP22029382.12"
+        },
+        {
+            "persona_id": 473,
+            "terminate": false,
+            "text": "일산 쪽에 스튜디오를 얻을까 생각 중이에요. 집이 걸어서 5분 거리에 있어서 일 끝나고 가기도 좋을 거 같아서요.",
+            "utterance_id": "BP22029382.13"
+        },
+        {
+            "persona_id": 590,
+            "terminate": false,
+            "text": "좋네요. 이미 준비는 다 끝났으니 일이 좀 한가해질 때만 기다리면 되겠어요.",
+            "utterance_id": "BP22029382.14"
+        },
+        {
+            "persona_id": 473,
+            "terminate": false,
+            "text": "맞아요. 지금도 회의하러 가봐야 해서 나가봐야 할 거 같아요. 대화 즐거웠습니다.",
+            "utterance_id": "BP22029382.15"
+        },
+        {
+            "persona_id": 590,
+            "terminate": true,
+            "text": "네 저도 덕분에 즐거운 대화 나눴어요. 좋은 하루 보내세요.",
+            "utterance_id": "BP22029382.16"
+        }
+    ]
+}

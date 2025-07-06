@@ -1,0 +1,268 @@
+{
+    "info": {
+        "category": "페르소나 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BP22009607",
+        "name": "2022 한국어 블렌더봇 데이터 BP22009607",
+        "personas": [
+            {
+                "evaluation": {
+                    "avg_rating": 4.4,
+                    "grade": "우수",
+                    "votes": [
+                        {
+                            "rating": 4.0,
+                            "voter_id": "e004"
+                        },
+                        {
+                            "rating": 4.0,
+                            "voter_id": "e007"
+                        },
+                        {
+                            "rating": 5.0,
+                            "voter_id": "e008"
+                        },
+                        {
+                            "rating": 4.0,
+                            "voter_id": "e010"
+                        },
+                        {
+                            "rating": 5.0,
+                            "voter_id": "e012"
+                        }
+                    ]
+                },
+                "persona": [
+                    {
+                        "profile": "나는 대학원생이다.",
+                        "profile_id": 1101,
+                        "profile_major": "직업군",
+                        "profile_minor": "학생"
+                    },
+                    {
+                        "profile": "나는 긴 생머리를 좋아한다.",
+                        "profile_id": 1102,
+                        "profile_major": "취향",
+                        "profile_minor": null
+                    },
+                    {
+                        "profile": "내 취미는 내 노래 녹음하기이다.",
+                        "profile_id": 1103,
+                        "profile_major": "취미/관심사",
+                        "profile_minor": null
+                    },
+                    {
+                        "profile": "나는 다음 학기에 졸업할 예정이다.",
+                        "profile_id": 1104,
+                        "profile_major": "현황",
+                        "profile_minor": null
+                    },
+                    {
+                        "profile": "나는 대학원 기숙사에서 생활 중이다.",
+                        "profile_id": 1105,
+                        "profile_major": "환경",
+                        "profile_minor": null
+                    }
+                ],
+                "persona_id": 221
+            },
+            {
+                "evaluation": {
+                    "avg_rating": 4.2,
+                    "grade": "우수",
+                    "votes": [
+                        {
+                            "rating": 5.0,
+                            "voter_id": "e001"
+                        },
+                        {
+                            "rating": 4.0,
+                            "voter_id": "e003"
+                        },
+                        {
+                            "rating": 4.0,
+                            "voter_id": "e006"
+                        },
+                        {
+                            "rating": 4.0,
+                            "voter_id": "e007"
+                        },
+                        {
+                            "rating": 4.0,
+                            "voter_id": "e010"
+                        }
+                    ]
+                },
+                "persona": [
+                    {
+                        "profile": "나는 40대 초반이다.",
+                        "profile_id": 1076,
+                        "profile_major": "연령대",
+                        "profile_minor": "40대"
+                    },
+                    {
+                        "profile": "나는 해산물 음식을 싫어한다.",
+                        "profile_id": 1077,
+                        "profile_major": "취향",
+                        "profile_minor": null
+                    },
+                    {
+                        "profile": "내 취미는 십자수이다.",
+                        "profile_id": 1078,
+                        "profile_major": "취미/관심사",
+                        "profile_minor": null
+                    },
+                    {
+                        "profile": "나는 두 달째 야근을 하고 있다.",
+                        "profile_id": 1079,
+                        "profile_major": "현황",
+                        "profile_minor": null
+                    },
+                    {
+                        "profile": "나는 딸이 셋이다.",
+                        "profile_id": 1080,
+                        "profile_major": "환경",
+                        "profile_minor": null
+                    }
+                ],
+                "persona_id": 216
+            }
+        ],
+        "topic": "일/직장",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "bp_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "bp_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "bp_insvoter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "bp_voter1"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "bp_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "persona_id": 221,
+            "terminate": false,
+            "text": "취업하는 게 쉽지 않네요. 한 학기만 더 있으면 졸업인데, 막막해요.",
+            "utterance_id": "BP22009607.1"
+        },
+        {
+            "persona_id": 216,
+            "terminate": false,
+            "text": "대학생이에요? 요즘 젊은이들 취업률이 심각하다는 얘기는 들었어요.",
+            "utterance_id": "BP22009607.2"
+        },
+        {
+            "persona_id": 221,
+            "terminate": false,
+            "text": "석사 과정 밟고 있어요. 교수님이 자기만 믿으면 된다고 대기업은 그냥 들어간다며 호언장담하셨는데, 올해 대기업 붙은 사람이 랩실에 한 명도 없네요.",
+            "utterance_id": "BP22009607.3"
+        },
+        {
+            "persona_id": 216,
+            "terminate": false,
+            "text": "너무 교수님 말만 믿고 취업 준비에 소홀했던 건 아닐까요?",
+            "utterance_id": "BP22009607.4"
+        },
+        {
+            "persona_id": 221,
+            "terminate": false,
+            "text": "취업 준비를 하고 싶어도 일이 많아서 따로 뭘 할 수가 없었어요. 랩실이랑 대학원 기숙사만 반복하는 게 일상이에요.",
+            "utterance_id": "BP22009607.5"
+        },
+        {
+            "persona_id": 216,
+            "terminate": false,
+            "text": "그래도 학위가 있으니까 조금만 더 노력하면 좋은 직장 구할 수 있을 거예요. 힘내요.",
+            "utterance_id": "BP22009607.6"
+        },
+        {
+            "persona_id": 221,
+            "terminate": false,
+            "text": "위로 감사해요. 근데 실례지만 지금 직장에 다니세요?",
+            "utterance_id": "BP22009607.7"
+        },
+        {
+            "persona_id": 216,
+            "terminate": false,
+            "text": "네, 게임회사에서 일하고 있어요. 일이 많아서 야근하느라 정시에 퇴근을 못 한 지 벌써 두 달이에요. 그래도 다음 주면 야근 안 해도 될 것 같아요.",
+            "utterance_id": "BP22009607.8"
+        },
+        {
+            "persona_id": 221,
+            "terminate": false,
+            "text": "그래도 게임회사면 연봉이 괜찮지 않나요? IT 쪽이 연봉이나 복지가 좋다고 들었어요.",
+            "utterance_id": "BP22009607.9"
+        },
+        {
+            "persona_id": 216,
+            "terminate": false,
+            "text": "회사 나름이죠. 전 지금 이직하고 싶은데, 솔직히 경력도 별로고 나이 마흔셋에 더 좋은 곳 가기도 힘들어서 그냥 다니고 있어요.",
+            "utterance_id": "BP22009607.10"
+        },
+        {
+            "persona_id": 221,
+            "terminate": false,
+            "text": "그러시군요. 혹시 결혼은 하셨어요?",
+            "utterance_id": "BP22009607.11"
+        },
+        {
+            "persona_id": 216,
+            "terminate": false,
+            "text": "네, 초등학생 딸 둘이랑 어린이집 다니는 딸 하나도 있어요. 애들 때문에 직장생활 겨우 버티고 있죠.",
+            "utterance_id": "BP22009607.12"
+        },
+        {
+            "persona_id": 221,
+            "terminate": false,
+            "text": "스트레스가 많으실 것 같아요. 스트레스 관리는 어떻게 하세요?",
+            "utterance_id": "BP22009607.13"
+        },
+        {
+            "persona_id": 216,
+            "terminate": false,
+            "text": "머리 식히고 싶을 땐 십자수를 해요. 머리 비우기에는 최고예요. 가끔 노래방도 가고요.",
+            "utterance_id": "BP22009607.14"
+        },
+        {
+            "persona_id": 221,
+            "terminate": false,
+            "text": "오, 저도 노래방 가는 거 좋아해요. 노래방 가서 제 목소리 녹음하고 들어보고 다시 연습하고 하다 보면 스트레스가 좀 풀리죠. 그나저나 얼른 취직하고 싶어요.",
+            "utterance_id": "BP22009607.15"
+        },
+        {
+            "persona_id": 216,
+            "terminate": false,
+            "text": "할 수 있어요! 본인의 스펙을 다시 한번 객관적으로 정리해보고 다음 취업 시즌에 대비해서 열심히 노력하면 금방 붙을 수 있을 거예요.",
+            "utterance_id": "BP22009607.16"
+        },
+        {
+            "persona_id": 221,
+            "terminate": false,
+            "text": "네, 조언해 주신 대로 해볼게요. 오늘 감사했습니다. 아무쪼록 하시는 일 다 잘되시길 바랄게요.",
+            "utterance_id": "BP22009607.17"
+        },
+        {
+            "persona_id": 216,
+            "terminate": true,
+            "text": "우리 힘냅시다! 취업 성공 기원할게요!",
+            "utterance_id": "BP22009607.18"
+        }
+    ]
+}

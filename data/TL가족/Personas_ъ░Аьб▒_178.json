@@ -1,0 +1,268 @@
+{
+    "info": {
+        "category": "페르소나 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BP22003247",
+        "name": "2022 한국어 블렌더봇 데이터 BP22003247",
+        "personas": [
+            {
+                "evaluation": {
+                    "avg_rating": 4.6,
+                    "grade": "우수",
+                    "votes": [
+                        {
+                            "rating": 4.0,
+                            "voter_id": "e002"
+                        },
+                        {
+                            "rating": 5.0,
+                            "voter_id": "e004"
+                        },
+                        {
+                            "rating": 5.0,
+                            "voter_id": "e006"
+                        },
+                        {
+                            "rating": 4.0,
+                            "voter_id": "e009"
+                        },
+                        {
+                            "rating": 5.0,
+                            "voter_id": "e011"
+                        }
+                    ]
+                },
+                "persona": [
+                    {
+                        "profile": "나는 여자다.",
+                        "profile_id": 1,
+                        "profile_major": "성별",
+                        "profile_minor": "여"
+                    },
+                    {
+                        "profile": "나는 40대다.",
+                        "profile_id": 2,
+                        "profile_major": "연령대",
+                        "profile_minor": "40대"
+                    },
+                    {
+                        "profile": "나는 주부다.",
+                        "profile_id": 3,
+                        "profile_major": "직업군",
+                        "profile_minor": "가정주부"
+                    },
+                    {
+                        "profile": "나는 홍차를 좋아한다.",
+                        "profile_id": 4,
+                        "profile_major": "취향",
+                        "profile_minor": null
+                    },
+                    {
+                        "profile": "나는 느긋한 성격이다.",
+                        "profile_id": 5,
+                        "profile_major": "성격/가치관",
+                        "profile_minor": null
+                    }
+                ],
+                "persona_id": 1
+            },
+            {
+                "evaluation": {
+                    "avg_rating": 4.6,
+                    "grade": "우수",
+                    "votes": [
+                        {
+                            "rating": 5.0,
+                            "voter_id": "e002"
+                        },
+                        {
+                            "rating": 4.0,
+                            "voter_id": "e005"
+                        },
+                        {
+                            "rating": 5.0,
+                            "voter_id": "e008"
+                        },
+                        {
+                            "rating": 5.0,
+                            "voter_id": "e009"
+                        },
+                        {
+                            "rating": 4.0,
+                            "voter_id": "e012"
+                        }
+                    ]
+                },
+                "persona": [
+                    {
+                        "profile": "나는 20대다.",
+                        "profile_id": 501,
+                        "profile_major": "연령대",
+                        "profile_minor": "20대"
+                    },
+                    {
+                        "profile": "나는 호텔에서 사무업무를 본다.",
+                        "profile_id": 502,
+                        "profile_major": "직업군",
+                        "profile_minor": "사무 종사자"
+                    },
+                    {
+                        "profile": "나는 달달한 음료를 좋아한다.",
+                        "profile_id": 503,
+                        "profile_major": "취향",
+                        "profile_minor": null
+                    },
+                    {
+                        "profile": "내 취미는 쇼핑이다.",
+                        "profile_id": 504,
+                        "profile_major": "취미/관심사",
+                        "profile_minor": null
+                    },
+                    {
+                        "profile": "나는 제주도에서 가족과 함께 살고 있다.",
+                        "profile_id": 505,
+                        "profile_major": "환경",
+                        "profile_minor": null
+                    }
+                ],
+                "persona_id": 101
+            }
+        ],
+        "topic": "가족",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "bp_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "bp_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "bp_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "bp_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "bp_insvoter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "persona_id": 1,
+            "terminate": false,
+            "text": "제 여동생이 임신했어요. 제가 언니라 도움을 주고 싶은데 제가 아직 경험이 없어서 뭘 해줘야 될지 모르겠네요.",
+            "utterance_id": "BP22003247.1"
+        },
+        {
+            "persona_id": 101,
+            "terminate": false,
+            "text": "음, 저는 아이가 한 명 있어요. 낳은 지도 얼마 안 됐고요. 제가 좀 도와드릴 수 있을 거 같은데요?",
+            "utterance_id": "BP22003247.2"
+        },
+        {
+            "persona_id": 1,
+            "terminate": false,
+            "text": "그럼 질문 좀 드릴게요. 임신 초기에는 뭐가 제일 힘든가요?",
+            "utterance_id": "BP22003247.3"
+        },
+        {
+            "persona_id": 101,
+            "terminate": false,
+            "text": "저 같은 경우는 임신한 지 얼마 안 됐을 때 큰 차이가 없었어요. 그냥 제가 자주 먹었던 달달한 바닐라 쉐이크를 더 찾는 정도의 차이만 있었던 거 같아요.",
+            "utterance_id": "BP22003247.4"
+        },
+        {
+            "persona_id": 1,
+            "terminate": false,
+            "text": "아, 좋아하는 음식을 더 찾게 되나 보네요. 제 동생은 저랑 입맛이 같아서 홍차를 좋아하니까 좀 많이 사둬야겠네요.",
+            "utterance_id": "BP22003247.5"
+        },
+        {
+            "persona_id": 101,
+            "terminate": false,
+            "text": "그리고 얼마 안 지나서 입덧을 할 수도 있으니까 먹을 수 있을 때 많이 먹여둬야 돼요.",
+            "utterance_id": "BP22003247.6"
+        },
+        {
+            "persona_id": 1,
+            "terminate": false,
+            "text": "그래야겠네요. 음, 임신 중반 정도 되면 어떤 점이 또 불편해지나요?",
+            "utterance_id": "BP22003247.7"
+        },
+        {
+            "persona_id": 101,
+            "terminate": false,
+            "text": "그때부턴 배가 나와서 입던 옷을 못 입기 시작해요. 저는 다행히 원래 쇼핑하는 걸 좋아해서 옷 쇼핑하면서 스트레스 해소 많이 했지만요.",
+            "utterance_id": "BP22003247.8"
+        },
+        {
+            "persona_id": 1,
+            "terminate": false,
+            "text": "임신 중반까지 아직 많이 남았지만 옷 선물도 생각해 놔야겠어요. 임산부가 여행 가는 건 안 되나요?",
+            "utterance_id": "BP22003247.9"
+        },
+        {
+            "persona_id": 101,
+            "terminate": false,
+            "text": "초기는 좀 위험하고 안정기에는 괜찮죠. 저도 임신 때 제주도 왔다가 그때 제주도 풍경에 반해서 지금은 아예 제주도로 이사 왔거든요.",
+            "utterance_id": "BP22003247.10"
+        },
+        {
+            "persona_id": 1,
+            "terminate": false,
+            "text": "음, 그럼 지금은 임신 초기니까 좀 지나고 가야겠네요. 또 저는 집에서 살림만 해서 시간이 많지만, 동생은 아직 일을 하고 있어서 시간도 따로 빼야 되고요.",
+            "utterance_id": "BP22003247.11"
+        },
+        {
+            "persona_id": 101,
+            "terminate": false,
+            "text": "아, 직장을 다니시면 임신 휴직하고 그때 여행 가시면 괜찮겠어요.",
+            "utterance_id": "BP22003247.12"
+        },
+        {
+            "persona_id": 1,
+            "terminate": false,
+            "text": "혹시 임신하셨을 때 일 하는 건 괜찮으셨나요? 출산하고 복직하면 정말 퇴직을 권유하기도 하나요?",
+            "utterance_id": "BP22003247.13"
+        },
+        {
+            "persona_id": 101,
+            "terminate": false,
+            "text": "글쎄요. 저는 임신 확인하고 바로 퇴직했거든요. 지금은 제주도에 있는 조그만 호텔에서 사무직으로 근무하고 있고요.",
+            "utterance_id": "BP22003247.14"
+        },
+        {
+            "persona_id": 1,
+            "terminate": false,
+            "text": "저는 여유롭고 활동적이지 않은 성격이라 주부가 적성에 맞는데, 동생은 저랑 반대로 느긋한 성격이 아니라 밖에서 활동하는 일을 못하게 되면 많이 상심하게 될 거 같아 걱정이에요.",
+            "utterance_id": "BP22003247.15"
+        },
+        {
+            "persona_id": 101,
+            "terminate": false,
+            "text": "근데, 제가 알기로는 요즘에 그런 분위기는 많이 사라졌다고 해요. 지금은 그런 걱정보다는 아이 건강히 낳을 생각하시는 게 좋을 거 같아요.",
+            "utterance_id": "BP22003247.16"
+        },
+        {
+            "persona_id": 1,
+            "terminate": false,
+            "text": "네, 그게 제일 우선이죠. 오늘 좋은 정보 감사했어요.",
+            "utterance_id": "BP22003247.17"
+        },
+        {
+            "persona_id": 101,
+            "terminate": true,
+            "text": "저도 오늘 대화 재밌었습니다. 꼭 건강한 아이 낳기를 바랄게요.",
+            "utterance_id": "BP22003247.18"
+        }
+    ]
+}

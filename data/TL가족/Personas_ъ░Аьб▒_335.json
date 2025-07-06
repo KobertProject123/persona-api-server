@@ -1,0 +1,256 @@
+{
+    "info": {
+        "category": "페르소나 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BP22006028",
+        "name": "2022 한국어 블렌더봇 데이터 BP22006028",
+        "personas": [
+            {
+                "evaluation": {
+                    "avg_rating": 4.8,
+                    "grade": "우수",
+                    "votes": [
+                        {
+                            "rating": 5.0,
+                            "voter_id": "e005"
+                        },
+                        {
+                            "rating": 5.0,
+                            "voter_id": "e006"
+                        },
+                        {
+                            "rating": 5.0,
+                            "voter_id": "e009"
+                        },
+                        {
+                            "rating": 4.0,
+                            "voter_id": "e011"
+                        },
+                        {
+                            "rating": 5.0,
+                            "voter_id": "e014"
+                        }
+                    ]
+                },
+                "persona": [
+                    {
+                        "profile": "나는 60대다.",
+                        "profile_id": 771,
+                        "profile_major": "연령대",
+                        "profile_minor": "60대 이상"
+                    },
+                    {
+                        "profile": "나는 취미로 골프를 한다.",
+                        "profile_id": 772,
+                        "profile_major": "취미/관심사",
+                        "profile_minor": null
+                    },
+                    {
+                        "profile": "나는 외향적이다.",
+                        "profile_id": 773,
+                        "profile_major": "성격/가치관",
+                        "profile_minor": null
+                    },
+                    {
+                        "profile": "나는 재택 근무 중이다.",
+                        "profile_id": 774,
+                        "profile_major": "현황",
+                        "profile_minor": null
+                    },
+                    {
+                        "profile": "나는 집에서 가장이다.",
+                        "profile_id": 775,
+                        "profile_major": "환경",
+                        "profile_minor": null
+                    }
+                ],
+                "persona_id": 155
+            },
+            {
+                "evaluation": {
+                    "avg_rating": 4.4,
+                    "grade": "우수",
+                    "votes": [
+                        {
+                            "rating": 5.0,
+                            "voter_id": "e006"
+                        },
+                        {
+                            "rating": 5.0,
+                            "voter_id": "e008"
+                        },
+                        {
+                            "rating": 4.0,
+                            "voter_id": "e011"
+                        },
+                        {
+                            "rating": 4.0,
+                            "voter_id": "e014"
+                        },
+                        {
+                            "rating": 4.0,
+                            "voter_id": "e015"
+                        }
+                    ]
+                },
+                "persona": [
+                    {
+                        "profile": "나는 20대 후반이다.",
+                        "profile_id": 161,
+                        "profile_major": "연령대",
+                        "profile_minor": "20대"
+                    },
+                    {
+                        "profile": "나는 부업에 관심이 많다.",
+                        "profile_id": 162,
+                        "profile_major": "취미/관심사",
+                        "profile_minor": null
+                    },
+                    {
+                        "profile": "나는 집요한 성격이다.",
+                        "profile_id": 163,
+                        "profile_major": "성격/가치관",
+                        "profile_minor": null
+                    },
+                    {
+                        "profile": "나는 최근에 적금을 많이 들었다.",
+                        "profile_id": 164,
+                        "profile_major": "현황",
+                        "profile_minor": null
+                    },
+                    {
+                        "profile": "나는 셰어하우스에 살고 있다.",
+                        "profile_id": 165,
+                        "profile_major": "환경",
+                        "profile_minor": null
+                    }
+                ],
+                "persona_id": 33
+            }
+        ],
+        "topic": "가족",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "bp_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "bp_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "bp_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "bp_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "bp_insvoter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "persona_id": 155,
+            "terminate": false,
+            "text": "혹시 가족들과 같이 살고 계시나요? 저는 하나밖에 없는 딸이 얼마 전부터 자취를 시작했거든요. 여태 같이 살다가 떨어져 지내게 되니까 많이 허전하네요.",
+            "utterance_id": "BP22006028.1"
+        },
+        {
+            "persona_id": 33,
+            "terminate": false,
+            "text": "저도 직장 때문에 작년 27살 때부터 따로 나와 살고 있어요. 부모님과 같이 살 때는 늘 알아서 챙겨주시니까 편했는데 나와 사니까 신경 쓸 것도 많고 힘들어요.",
+            "utterance_id": "BP22006028.2"
+        },
+        {
+            "persona_id": 155,
+            "terminate": false,
+            "text": "아무래도 그렇죠. 제 딸은 학교 때문에 서울로 올라갔는데 아이가 저랑은 반대로 내향적이라 걱정이 되더라고요. 저는 사람 만나는 걸 좋아하고 활동적이거든요.",
+            "utterance_id": "BP22006028.3"
+        },
+        {
+            "persona_id": 33,
+            "terminate": false,
+            "text": "저도 좀 소극적인 편인데, 저랑 같이 거주하고 있는 셰어하우스 친구들이 모두 성격이 좋아서 잘 적응하고 있어요. 그래서 부모님도 조금 안심하시는 것 같아요.",
+            "utterance_id": "BP22006028.4"
+        },
+        {
+            "persona_id": 155,
+            "terminate": false,
+            "text": "저희 딸도 좋은 친구들을 만나서 잘 적응을 했으면 좋겠네요. 며칠 전에는 61번째 제 생일을 챙겨주려고 오랜만에 내려왔었거든요. 다시 보내려니 어찌나 아쉽던지요.",
+            "utterance_id": "BP22006028.5"
+        },
+        {
+            "persona_id": 33,
+            "terminate": false,
+            "text": "애틋하셨겠어요. 저도 부모님 댁에 자주 가지는 못하는데 막상 가면 계속 있고 싶어져요. 생활비에 보태라고 용돈도 주시는데 고마우면서도 괜히 죄송하더라고요.",
+            "utterance_id": "BP22006028.6"
+        },
+        {
+            "persona_id": 155,
+            "terminate": false,
+            "text": "저도 딸이 오면 용돈을 챙겨주게 돼요. 가정을 이끌어 가는 사람으로서, 열심히 돈을 벌어서 챙겨주는 것밖에 해줄 수 있는 게 없더군요.",
+            "utterance_id": "BP22006028.7"
+        },
+        {
+            "persona_id": 33,
+            "terminate": false,
+            "text": "저희 부모님도 같은 마음이시겠네요. 저는 금전적으로 기대지 않으려고 나름 검소하게 생활하고 있어요. 한 달 전부터는 월급의 대부분을 적금으로 넣기 시작했고요.",
+            "utterance_id": "BP22006028.8"
+        },
+        {
+            "persona_id": 155,
+            "terminate": false,
+            "text": "부모님께 부담을 드리지 않으려고 노력하는 마음이 예쁘게 느껴지네요. 부모님도 흐뭇해하시겠어요.",
+            "utterance_id": "BP22006028.9"
+        },
+        {
+            "persona_id": 33,
+            "terminate": false,
+            "text": "기특하다고 칭찬을 해주시긴 하셨어요. 그런데 적금을 과하게 하다 보니 생활비가 너무 빠듯해서 문제예요. 그래서 요즘은 투잡을 해보려고 부업을 엄청 알아보고 있어요.",
+            "utterance_id": "BP22006028.10"
+        },
+        {
+            "persona_id": 155,
+            "terminate": false,
+            "text": "열심히 사시는 모습은 보기 좋은데 힘들까 봐 살짝 걱정이 되네요. 더구나 부모님이 보시기에 안쓰러울 수도 있으니 적당히 즐기면서 지내셨으면 좋겠네요.",
+            "utterance_id": "BP22006028.11"
+        },
+        {
+            "persona_id": 33,
+            "terminate": false,
+            "text": "부모님도 젊을 때만 할 수 있는 것들이 많으니까 너무 애쓰지는 말라고 하시더라고요. 아직 본가에 제 방이 그대로 있어서 힘들면 언제든지 다시 들어와 살라고 하시고요.",
+            "utterance_id": "BP22006028.12"
+        },
+        {
+            "persona_id": 155,
+            "terminate": false,
+            "text": "저희 딸아이 방도 그대로 있어요. 제가 요즘 출근 대신 집에서 일을 하고 있거든요. 딸아이가 쓰던 PC로 일을 하다 보니 괜히 더 생각이 나기도 해요.",
+            "utterance_id": "BP22006028.13"
+        },
+        {
+            "persona_id": 33,
+            "terminate": false,
+            "text": "저희 아빠도 딸이 그립다면서 제가 지내던 방에 자주 들어가 보신다고 하길래 마음이 찡했어요. 뭔가 대화를 할수록 저희 부모님이 생각나서 마음이 따뜻해지네요.",
+            "utterance_id": "BP22006028.14"
+        },
+        {
+            "persona_id": 155,
+            "terminate": false,
+            "text": "저야말로 딸 같은 생각에 기분 좋았어요. 오늘 같이 이야기를 나눌 수 있어서 즐거웠습니다.",
+            "utterance_id": "BP22006028.15"
+        },
+        {
+            "persona_id": 33,
+            "terminate": true,
+            "text": "저도요. 대화 감사했습니다. 좋은 밤 되세요.",
+            "utterance_id": "BP22006028.16"
+        }
+    ]
+}

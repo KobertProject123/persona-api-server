@@ -1,0 +1,280 @@
+{
+    "info": {
+        "category": "페르소나 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BP22014178",
+        "name": "2022 한국어 블렌더봇 데이터 BP22014178",
+        "personas": [
+            {
+                "evaluation": {
+                    "avg_rating": 4.4,
+                    "grade": "우수",
+                    "votes": [
+                        {
+                            "rating": 4.0,
+                            "voter_id": "e001"
+                        },
+                        {
+                            "rating": 4.0,
+                            "voter_id": "e004"
+                        },
+                        {
+                            "rating": 4.0,
+                            "voter_id": "e005"
+                        },
+                        {
+                            "rating": 5.0,
+                            "voter_id": "e008"
+                        },
+                        {
+                            "rating": 5.0,
+                            "voter_id": "e009"
+                        }
+                    ]
+                },
+                "persona": [
+                    {
+                        "profile": "나는 남자다.",
+                        "profile_id": 1841,
+                        "profile_major": "성별",
+                        "profile_minor": "남"
+                    },
+                    {
+                        "profile": "나는 50대 중반이다.",
+                        "profile_id": 1842,
+                        "profile_major": "연령대",
+                        "profile_minor": "50대"
+                    },
+                    {
+                        "profile": "내 직업은 철도신호원이다.",
+                        "profile_id": 1843,
+                        "profile_major": "직업군",
+                        "profile_minor": "장치/기계 조작 및 조립 종사자"
+                    },
+                    {
+                        "profile": "내 취미는 야구 경기를 보는 것이다.",
+                        "profile_id": 1844,
+                        "profile_major": "취미/관심사",
+                        "profile_minor": null
+                    },
+                    {
+                        "profile": "나는 최근 카메라를 구매했다.",
+                        "profile_id": 1845,
+                        "profile_major": "현황",
+                        "profile_minor": null
+                    }
+                ],
+                "persona_id": 369
+            },
+            {
+                "evaluation": {
+                    "avg_rating": 4.6,
+                    "grade": "우수",
+                    "votes": [
+                        {
+                            "rating": 5.0,
+                            "voter_id": "e002"
+                        },
+                        {
+                            "rating": 5.0,
+                            "voter_id": "e004"
+                        },
+                        {
+                            "rating": 5.0,
+                            "voter_id": "e005"
+                        },
+                        {
+                            "rating": 4.0,
+                            "voter_id": "e008"
+                        },
+                        {
+                            "rating": 4.0,
+                            "voter_id": "e009"
+                        }
+                    ]
+                },
+                "persona": [
+                    {
+                        "profile": "나는 여자다.",
+                        "profile_id": 1146,
+                        "profile_major": "성별",
+                        "profile_minor": "여"
+                    },
+                    {
+                        "profile": "나는 20대 후반이다.",
+                        "profile_id": 1147,
+                        "profile_major": "연령대",
+                        "profile_minor": "20대"
+                    },
+                    {
+                        "profile": "내 취미는 원데이 클래스에 참여하는 것이다.",
+                        "profile_id": 1148,
+                        "profile_major": "취미/관심사",
+                        "profile_minor": null
+                    },
+                    {
+                        "profile": "나는 워라밸을 추구한다.",
+                        "profile_id": 1149,
+                        "profile_major": "성격/가치관",
+                        "profile_minor": null
+                    },
+                    {
+                        "profile": "나는 최근에 일거리가 많아졌다.",
+                        "profile_id": 1150,
+                        "profile_major": "현황",
+                        "profile_minor": null
+                    }
+                ],
+                "persona_id": 230
+            }
+        ],
+        "topic": "여가/오락",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "bp_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "bp_voter5"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "bp_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "bp_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "bp_insvoter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "persona_id": 369,
+            "terminate": false,
+            "text": "제가 이제 56세가 되니깐 여유가 많이 생기게 되었어요.",
+            "utterance_id": "BP22014178.1"
+        },
+        {
+            "persona_id": 230,
+            "terminate": false,
+            "text": "그래요? 그럼 그 시간에는 주로 무엇을 하시나요?",
+            "utterance_id": "BP22014178.2"
+        },
+        {
+            "persona_id": 369,
+            "terminate": false,
+            "text": "저는 야구를 좋아해서요. 야구 시즌에는 경기를 보러 많이 다녀요.",
+            "utterance_id": "BP22014178.3"
+        },
+        {
+            "persona_id": 230,
+            "terminate": false,
+            "text": "흥미로운 취미를 가지셨네요.",
+            "utterance_id": "BP22014178.4"
+        },
+        {
+            "persona_id": 369,
+            "terminate": false,
+            "text": "인생의 즐거움이 되지요. 제가 야구장에서 사진도 찍으려고 며칠 전에 카메라도 샀어요.",
+            "utterance_id": "BP22014178.5"
+        },
+        {
+            "persona_id": 230,
+            "terminate": false,
+            "text": "좋으시겠어요. 저도 일과 삶의 균형을 잘 유지하고 싶은데 잘 안되어요.",
+            "utterance_id": "BP22014178.6"
+        },
+        {
+            "persona_id": 369,
+            "terminate": false,
+            "text": "일이 바쁘셔서 그런 건가요?",
+            "utterance_id": "BP22014178.7"
+        },
+        {
+            "persona_id": 230,
+            "terminate": false,
+            "text": "네, 특히 요 근래에 일할 게 많아졌거든요. 저도 취미 생활을 하고 싶은데 할 시간이 없어요.",
+            "utterance_id": "BP22014178.8"
+        },
+        {
+            "persona_id": 369,
+            "terminate": false,
+            "text": "안타깝네요. 평소에는 어떤 취미가 있으신데요?",
+            "utterance_id": "BP22014178.9"
+        },
+        {
+            "persona_id": 230,
+            "terminate": false,
+            "text": "저는 배우는 걸 좋아해서 여가 시간에 원데이 클래스를 수강해요. 괜찮은 취미죠?",
+            "utterance_id": "BP22014178.10"
+        },
+        {
+            "persona_id": 369,
+            "terminate": false,
+            "text": "네, 멋진 취미인데 요즘은 못 즐기신다니 아쉽겠네요.",
+            "utterance_id": "BP22014178.11"
+        },
+        {
+            "persona_id": 230,
+            "terminate": false,
+            "text": "그래서 저도 푹 쉬고 싶어요. 주변에 말하면 아직 29살밖에 되지 않았는데 일할 수 있을 때 열심히 하라고 하더라고요.",
+            "utterance_id": "BP22014178.12"
+        },
+        {
+            "persona_id": 369,
+            "terminate": false,
+            "text": "젊을 때 일을 해야 하는 건 맞지만 스트레스도 풀고 하고 싶은 것도 할 수 있으면 좋을 텐데요.",
+            "utterance_id": "BP22014178.13"
+        },
+        {
+            "persona_id": 230,
+            "terminate": false,
+            "text": "그러게 말이에요. 그래서 요즘은 짧으면서도 효과적으로 쉬는 시간을 보내는 방법을 찾고 있어요.",
+            "utterance_id": "BP22014178.14"
+        },
+        {
+            "persona_id": 369,
+            "terminate": false,
+            "text": "저는 일이 바쁠 때는 아내와 함께 저녁에 공원을 걸어 다니곤 했어요. 밤공기가 시원해서 기분이 좋아지더라고요.",
+            "utterance_id": "BP22014178.15"
+        },
+        {
+            "persona_id": 230,
+            "terminate": false,
+            "text": "그럼 저도 가족들과 밤에 함께 산책을 해야겠어요.",
+            "utterance_id": "BP22014178.16"
+        },
+        {
+            "persona_id": 369,
+            "terminate": false,
+            "text": "네, 기존 취미 생활 못하시는 걸로 너무 힘들어하지 마시고 산책으로 기분을 풀어보세요.",
+            "utterance_id": "BP22014178.17"
+        },
+        {
+            "persona_id": 230,
+            "terminate": false,
+            "text": "조언 감사해요. 정말 그래봐야겠어요.",
+            "utterance_id": "BP22014178.18"
+        },
+        {
+            "persona_id": 369,
+            "terminate": false,
+            "text": "바쁜 일이 빨리 끝나시고 취미 활동할 수 있기를 바랄게요.",
+            "utterance_id": "BP22014178.19"
+        },
+        {
+            "persona_id": 230,
+            "terminate": true,
+            "text": "감사해요. 좋은 하루 보내세요.",
+            "utterance_id": "BP22014178.20"
+        }
+    ]
+}

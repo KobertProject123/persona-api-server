@@ -1,0 +1,262 @@
+{
+    "info": {
+        "category": "페르소나 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BP22007379",
+        "name": "2022 한국어 블렌더봇 데이터 BP22007379",
+        "personas": [
+            {
+                "evaluation": {
+                    "avg_rating": 4.6,
+                    "grade": "우수",
+                    "votes": [
+                        {
+                            "rating": 5.0,
+                            "voter_id": "e004"
+                        },
+                        {
+                            "rating": 4.0,
+                            "voter_id": "e005"
+                        },
+                        {
+                            "rating": 5.0,
+                            "voter_id": "e008"
+                        },
+                        {
+                            "rating": 5.0,
+                            "voter_id": "e011"
+                        },
+                        {
+                            "rating": 4.0,
+                            "voter_id": "e013"
+                        }
+                    ]
+                },
+                "persona": [
+                    {
+                        "profile": "나는 여자다.",
+                        "profile_id": 506,
+                        "profile_major": "성별",
+                        "profile_minor": "여"
+                    },
+                    {
+                        "profile": "나는 30대다.",
+                        "profile_id": 507,
+                        "profile_major": "연령대",
+                        "profile_minor": "30대"
+                    },
+                    {
+                        "profile": "나는 유기견에 관심이 많다.",
+                        "profile_id": 508,
+                        "profile_major": "취미/관심사",
+                        "profile_minor": null
+                    },
+                    {
+                        "profile": "나는 완벽주의자다.",
+                        "profile_id": 509,
+                        "profile_major": "성격/가치관",
+                        "profile_minor": null
+                    },
+                    {
+                        "profile": "나는 곧 출산 예정이다.",
+                        "profile_id": 510,
+                        "profile_major": "현황",
+                        "profile_minor": null
+                    }
+                ],
+                "persona_id": 102
+            },
+            {
+                "evaluation": {
+                    "avg_rating": 4.8,
+                    "grade": "우수",
+                    "votes": [
+                        {
+                            "rating": 5.0,
+                            "voter_id": "e005"
+                        },
+                        {
+                            "rating": 5.0,
+                            "voter_id": "e006"
+                        },
+                        {
+                            "rating": 5.0,
+                            "voter_id": "e009"
+                        },
+                        {
+                            "rating": 4.0,
+                            "voter_id": "e011"
+                        },
+                        {
+                            "rating": 5.0,
+                            "voter_id": "e014"
+                        }
+                    ]
+                },
+                "persona": [
+                    {
+                        "profile": "나는 60대다.",
+                        "profile_id": 771,
+                        "profile_major": "연령대",
+                        "profile_minor": "60대 이상"
+                    },
+                    {
+                        "profile": "나는 취미로 골프를 한다.",
+                        "profile_id": 772,
+                        "profile_major": "취미/관심사",
+                        "profile_minor": null
+                    },
+                    {
+                        "profile": "나는 외향적이다.",
+                        "profile_id": 773,
+                        "profile_major": "성격/가치관",
+                        "profile_minor": null
+                    },
+                    {
+                        "profile": "나는 재택 근무 중이다.",
+                        "profile_id": 774,
+                        "profile_major": "현황",
+                        "profile_minor": null
+                    },
+                    {
+                        "profile": "나는 집에서 가장이다.",
+                        "profile_id": 775,
+                        "profile_major": "환경",
+                        "profile_minor": null
+                    }
+                ],
+                "persona_id": 155
+            }
+        ],
+        "topic": "여가/오락",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "bp_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "bp_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "bp_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "bp_insvoter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "bp_insvoter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "persona_id": 102,
+            "terminate": false,
+            "text": "제가 쉬는 날마다 봉사활동을 다니다 보니, 요즘 좀 피곤하네요. 아무래도 며칠은 쉬어야겠어요.",
+            "utterance_id": "BP22007379.1"
+        },
+        {
+            "persona_id": 155,
+            "terminate": false,
+            "text": "그러시군요. 그럼 주로 어떤 봉사를 다니시나요?",
+            "utterance_id": "BP22007379.2"
+        },
+        {
+            "persona_id": 102,
+            "terminate": false,
+            "text": "저는 유기견 봉사를 다녀요. 제가 이런 문제에 관심이 많다 보니 벌써 3년째 다니고 있네요.",
+            "utterance_id": "BP22007379.3"
+        },
+        {
+            "persona_id": 155,
+            "terminate": false,
+            "text": "좋은 봉사활동이군요. 그런데 유기견 봉사는 정확히 어떤 활동을 하는 봉사인가요?",
+            "utterance_id": "BP22007379.4"
+        },
+        {
+            "persona_id": 102,
+            "terminate": false,
+            "text": "청소나 이동봉사, 산책시키기 등이 있어요. 저는 출산일이 머지않아서, 힘든 일보다는 간단하게 산책시키기를 하고 있고요.",
+            "utterance_id": "BP22007379.5"
+        },
+        {
+            "persona_id": 155,
+            "terminate": false,
+            "text": "몸이 많이 무거우실 텐데, 대단하시네요. 저는 올해로 예순둘이라, 체력이 달려서 엄두도 못 내겠군요.",
+            "utterance_id": "BP22007379.6"
+        },
+        {
+            "persona_id": 102,
+            "terminate": false,
+            "text": "아무래도 나이가 많으면 힘들겠더라고요. 그나저나 제 얘기만 한 것 같아서 민망하네요. 휴일에는 보통 어떤 활동을 하세요?",
+            "utterance_id": "BP22007379.7"
+        },
+        {
+            "persona_id": 155,
+            "terminate": false,
+            "text": "저는 주로 골프를 즐겨 하죠. 아마 못해도 일주일에 5번은 가는 것 같네요.",
+            "utterance_id": "BP22007379.8"
+        },
+        {
+            "persona_id": 102,
+            "terminate": false,
+            "text": "와, 일주일에 5번이면 상당히 많이 다니시네요.",
+            "utterance_id": "BP22007379.9"
+        },
+        {
+            "persona_id": 155,
+            "terminate": false,
+            "text": "하하, 제가 집에서 프리랜서 일을 하고 있어서 시간이 많이 남는 편이거든요.",
+            "utterance_id": "BP22007379.10"
+        },
+        {
+            "persona_id": 102,
+            "terminate": false,
+            "text": "그러셨군요. 그럼 골프 실력은 어떤 편이신가요?",
+            "utterance_id": "BP22007379.11"
+        },
+        {
+            "persona_id": 155,
+            "terminate": false,
+            "text": "사실 그렇게 잘 치는 편은 아니에요. 제가 워낙 바깥에 나가 사람 만나는 걸 좋아해서, 친목 도모 목적으로 골프 모임 나가는 거거든요.",
+            "utterance_id": "BP22007379.12"
+        },
+        {
+            "persona_id": 102,
+            "terminate": false,
+            "text": "아, 하긴 저도 사람을 좋아해서 25살 때는 이곳저곳 모임도 다니고 했었네요. 그게 벌써 7년 전 일이지만요.",
+            "utterance_id": "BP22007379.13"
+        },
+        {
+            "persona_id": 155,
+            "terminate": false,
+            "text": "맞아요. 사람을 사귀는 데에는 공통의 관심사만큼 효과적인 게 없더군요.",
+            "utterance_id": "BP22007379.14"
+        },
+        {
+            "persona_id": 102,
+            "terminate": false,
+            "text": "공감되네요. 사실 제가 남편을 아까 얘기한 모임에서 만났거든요. 확실히 말이 잘 통하더라고요.",
+            "utterance_id": "BP22007379.15"
+        },
+        {
+            "persona_id": 155,
+            "terminate": false,
+            "text": "그러셨군요. 그럼 아쉽지만 저는 남은 일이 있어서 이만 들어가 봐야겠습니다. 오늘 재밌었네요.",
+            "utterance_id": "BP22007379.16"
+        },
+        {
+            "persona_id": 102,
+            "terminate": true,
+            "text": "아, 시간이 벌써 이렇게 됐네요. 잘 들어가시고, 저도 오늘 대화 나눠서 즐거웠어요.",
+            "utterance_id": "BP22007379.17"
+        }
+    ]
+}

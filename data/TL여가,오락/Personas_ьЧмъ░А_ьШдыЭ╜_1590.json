@@ -1,0 +1,256 @@
+{
+    "info": {
+        "category": "페르소나 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BP22015865",
+        "name": "2022 한국어 블렌더봇 데이터 BP22015865",
+        "personas": [
+            {
+                "evaluation": {
+                    "avg_rating": 4.8,
+                    "grade": "우수",
+                    "votes": [
+                        {
+                            "rating": 4.0,
+                            "voter_id": "e001"
+                        },
+                        {
+                            "rating": 5.0,
+                            "voter_id": "e004"
+                        },
+                        {
+                            "rating": 5.0,
+                            "voter_id": "e006"
+                        },
+                        {
+                            "rating": 5.0,
+                            "voter_id": "e007"
+                        },
+                        {
+                            "rating": 5.0,
+                            "voter_id": "e009"
+                        }
+                    ]
+                },
+                "persona": [
+                    {
+                        "profile": "나는 남자다.",
+                        "profile_id": 1141,
+                        "profile_major": "성별",
+                        "profile_minor": "남"
+                    },
+                    {
+                        "profile": "나는 20대 후반이다.",
+                        "profile_id": 1142,
+                        "profile_major": "연령대",
+                        "profile_minor": "20대"
+                    },
+                    {
+                        "profile": "나는 계곡을 좋아한다.",
+                        "profile_id": 1143,
+                        "profile_major": "취향",
+                        "profile_minor": null
+                    },
+                    {
+                        "profile": "나는 최근 임플란트를 했다.",
+                        "profile_id": 1144,
+                        "profile_major": "현황",
+                        "profile_minor": null
+                    },
+                    {
+                        "profile": "나는 산골 마을에 산다.",
+                        "profile_id": 1145,
+                        "profile_major": "환경",
+                        "profile_minor": null
+                    }
+                ],
+                "persona_id": 229
+            },
+            {
+                "evaluation": {
+                    "avg_rating": 4.2,
+                    "grade": "우수",
+                    "votes": [
+                        {
+                            "rating": 4.0,
+                            "voter_id": "e003"
+                        },
+                        {
+                            "rating": 4.0,
+                            "voter_id": "e006"
+                        },
+                        {
+                            "rating": 5.0,
+                            "voter_id": "e009"
+                        },
+                        {
+                            "rating": 4.0,
+                            "voter_id": "e012"
+                        },
+                        {
+                            "rating": 4.0,
+                            "voter_id": "e013"
+                        }
+                    ]
+                },
+                "persona": [
+                    {
+                        "profile": "나는 남자다.",
+                        "profile_id": 2001,
+                        "profile_major": "성별",
+                        "profile_minor": "남"
+                    },
+                    {
+                        "profile": "나는 자동차 튜닝 엔지니어다.",
+                        "profile_id": 2002,
+                        "profile_major": "직업군",
+                        "profile_minor": "기능원 및 관련 기능 종사자"
+                    },
+                    {
+                        "profile": "나는 초밥을 좋아한다.",
+                        "profile_id": 2003,
+                        "profile_major": "취향",
+                        "profile_minor": null
+                    },
+                    {
+                        "profile": "나는 산악자전거에 관심이 많다.",
+                        "profile_id": 2004,
+                        "profile_major": "취미/관심사",
+                        "profile_minor": null
+                    },
+                    {
+                        "profile": "나는 평생 파주에서 살아왔다.",
+                        "profile_id": 2005,
+                        "profile_major": "환경",
+                        "profile_minor": null
+                    }
+                ],
+                "persona_id": 401
+            }
+        ],
+        "topic": "여가/오락",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "bp_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "bp_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "bp_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "bp_insvoter2"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "bp_insvoter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "persona_id": 229,
+            "terminate": false,
+            "text": "가을이 찾아오니 날씨가 좋네요. 이번 주말에는 피크닉 가기 정말 좋겠어요.",
+            "utterance_id": "BP22015865.1"
+        },
+        {
+            "persona_id": 401,
+            "terminate": false,
+            "text": "그러게요. 그래서 저도 이번 주말에 산악자전거를 타러 갈 예정이에요. 동호회에 들어 있거든요.",
+            "utterance_id": "BP22015865.2"
+        },
+        {
+            "persona_id": 229,
+            "terminate": false,
+            "text": "동호회 회원이시면 실력이 꽤 좋으시겠네요. 어디로 자전거를 타러 가세요?",
+            "utterance_id": "BP22015865.3"
+        },
+        {
+            "persona_id": 401,
+            "terminate": false,
+            "text": "아직 목적지는 투표 중이에요. 일단 무조건 시외로 나갈 거예요. 평생 파주를 벗어난 적이 없기 때문에 시내에만 있으면 좀 갑갑하거든요.",
+            "utterance_id": "BP22015865.4"
+        },
+        {
+            "persona_id": 229,
+            "terminate": false,
+            "text": "그러시군요. 저도 가끔 자전거를 타고 싶긴 한데 아내가 자전거를 탈 줄 몰라서 보통 다른 일을 찾아서 해요.",
+            "utterance_id": "BP22015865.5"
+        },
+        {
+            "persona_id": 401,
+            "terminate": false,
+            "text": "그럼 뭘 하면서 주말을 보내시는데요? 저도 아내와 주말에 함께 할 만한 놀거리를 찾고 있거든요.",
+            "utterance_id": "BP22015865.6"
+        },
+        {
+            "persona_id": 229,
+            "terminate": false,
+            "text": "저희는 둘 다 물을 좋아해서 도시락을 싸서 계곡에 자주 가요. 시원한 물에 발을 담그면 기분이 좋아져서요.",
+            "utterance_id": "BP22015865.7"
+        },
+        {
+            "persona_id": 401,
+            "terminate": false,
+            "text": "아, 바다가 아닌 계곡으로 가시는 이유가 있나요? 계곡물은 워낙 차갑잖아요.",
+            "utterance_id": "BP22015865.8"
+        },
+        {
+            "persona_id": 229,
+            "terminate": false,
+            "text": "아, 저희 집이 산속에 있어서 계곡까지 걸어서 갈 수 있거든요. 도시락만 달랑 들고 집에서 길을 떠난답니다.",
+            "utterance_id": "BP22015865.9"
+        },
+        {
+            "persona_id": 401,
+            "terminate": false,
+            "text": "하하, 그러시군요. 듣다 보니 산에서 먹는 도시락 맛이 정말 꿀맛일 것 같아요. 저도 이번 주에 자전거를 타러 갈 때 좋아하는 초밥집에서 도시락을 사 가야겠네요.",
+            "utterance_id": "BP22015865.10"
+        },
+        {
+            "persona_id": 229,
+            "terminate": false,
+            "text": "산속에서 초밥이라니 정말 맛있겠네요.",
+            "utterance_id": "BP22015865.11"
+        },
+        {
+            "persona_id": 401,
+            "terminate": false,
+            "text": "피크닉에는 뭐니 뭐니 해도 맛있는 먹을거리가 빠질 수 없죠.",
+            "utterance_id": "BP22015865.12"
+        },
+        {
+            "persona_id": 229,
+            "terminate": false,
+            "text": "하하, 얘기하다 보니 얼른 주말이 되었으면 좋겠네요. 그럼 전 치과에 가야 해서 가볼게요. 지난주에 한 임플란트가 잘 되었나 확인해 봐야 해서요.",
+            "utterance_id": "BP22015865.13"
+        },
+        {
+            "persona_id": 401,
+            "terminate": false,
+            "text": "알겠어요. 저도 마침 산악자전거를 닦으러 가려던 참이었어요.",
+            "utterance_id": "BP22015865.14"
+        },
+        {
+            "persona_id": 229,
+            "terminate": false,
+            "text": "네, 그럼 남은 하루 잘 보내세요.",
+            "utterance_id": "BP22015865.15"
+        },
+        {
+            "persona_id": 401,
+            "terminate": true,
+            "text": "네, 즐거운 하루 되시길 바랄게요.",
+            "utterance_id": "BP22015865.16"
+        }
+    ]
+}
